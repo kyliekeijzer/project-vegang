@@ -3,4 +3,4 @@
 food_intake_files_path: '../data/intake_files'
 mental_state_files_path: ''
 body_comp_files_path: ''
-microbiota_files_path: ''
+microbiota_files_path: '../microbiota_tax_data"'
