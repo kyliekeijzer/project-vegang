@@ -1,6 +1,6 @@
 # This file should contain your personal definitions of filepaths/variables/etc.
 
-food_intake_files_path: '../data/intake_files'
+food_intake_files_path: 'C:/Users/Henrike/OneDrive - Hanzehogeschool Groningen/DSLS/project/data/intake_files'
 mental_state_files_path: 'C:/Users/Henrike/OneDrive - Hanzehogeschool Groningen/DSLS/project/data/mental_files'
 body_comp_files_path: ''
 microbiota_files_path: ''
