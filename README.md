@@ -6,6 +6,8 @@ All the food intake files can be found at https://hanzenl-my.sharepoint.com/:f:/
 
 All the microbiota data can be found at https://hanzenl-my.sharepoint.com/:f:/g/personal/t_van_lieshout_st_hanze_nl/EnB7DENGCn5Dpualt8ZdlYABmMeYvHN_ic6UUsSFVpNetw?e=VUnhqc
 
+All the body composition data can be found at https://hanzenl-my.sharepoint.com/:f:/r/personal/t_van_lieshout_st_hanze_nl/Documents/Project_Ve-Gang/Measurement%20files/Body%20composition%20measurement%20files?csf=1&web=1&e=yK94g5
+
 You should download the files and define the path to them in config.yaml
 
 A skeleton is added for different functionality locations. Please search for the docstrings that contain 'NOTE'. Some instructions are put there for merging the plots in the Dashboard. 
