@@ -55,4 +55,4 @@ panel
 jupyter notebook
 ```
 
-2. Open the **project-vegang.ipynb** and run all cells, the dashboard will be launched in a new window.
+2. Open **project-vegang.ipynb** and run all cells, the dashboard will be launched in a new window.
