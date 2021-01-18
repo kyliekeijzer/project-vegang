@@ -40,6 +40,7 @@ datetime
 dotmap
 yaml
 hvplot.pandas
+holoviews
 numpy
 pandas
 matplotlib.pyplot
