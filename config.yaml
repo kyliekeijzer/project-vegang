@@ -4,3 +4,5 @@ food_intake_files_path: '../data/intake_files'
 mental_state_files_path: '../data/mental_files'
 body_comp_files_path: '../data/body_composition_data'
 microbiota_files_path: '../data/microbiota_tax_data'
+complete_blast_output: '../data/complete_blast/*.out'
+molded_merged_blast_output: "../data/merged_blast.txt"
