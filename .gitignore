@@ -30,3 +30,6 @@ Thumbs.db
 *.wmv
 *.svg
 *.html
+
+control_describe.csv
+vegan_describe.csv
