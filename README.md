@@ -1,7 +1,8 @@
 # Project Ve-gang
 
 This repository contains all the project Ve-gang source code created for the analysation of the measurement data. The end product is an interactive dashbaord containing all visualizations per subject.  
-Additional idividual created and used files can be found in the different branches. The ```master``` branch should be checked out for launching the dashboard. 
+Additional idividual created and used files can be found in the different branches. The ```master``` branch should be checked out for launching the dashboard.  
+The final report and presentation of this study can be found in the ```Documents``` folder.  
 
 Created by:
 * Henrike Vaartstra
@@ -55,7 +56,7 @@ panel
 
 ## Usage
 
-1. Run jupyter notebook (preferably in a virtual environment).
+1. Run Jupyter Notebook in the terminal (preferably in a virtual environment).
 ```
 jupyter notebook
 ```
